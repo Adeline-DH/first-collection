@@ -25,7 +25,7 @@ title: International Bridges
 # this description might appear in search result lists, keep around 160 characters max
 description: "A curated list of international bridges that I found aesthetically pleasing"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: Bridge;France;London;England;Massachusetts;United states
+keywords: Bridge;France;London;England;Massachusetts;USA
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Adeline-DH
 
@@ -42,14 +42,14 @@ page_gen:
     template: 'item'
     name: 'objectid'
     dir: 'items'
-    extension: 'html' 
-    filter: 'objectid'  
+    extension: 'html'
+    filter: 'objectid'
 
 ##########
 # ORGANIZATION SETTINGS
 #
 # Enter name and link for your organization (replacing the name and links below)
-# These values will be used in attribution and data 
+# These values will be used in attribution and data
 organization-name: "SI676 Fall 2026"
 # organization-link: https://cdil.lib.uidaho.edu/
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
@@ -60,7 +60,7 @@ organization-name: "SI676 Fall 2026"
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+# noindex: true
 
 ##########
 # BUILD SETTINGS 
